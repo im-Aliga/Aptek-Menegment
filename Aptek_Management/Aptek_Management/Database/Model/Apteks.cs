@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aptek_Management.Database.Model
 {
-    public  class Apteks : Owner
+    public  class Apteks 
     {
+
     }
 }
