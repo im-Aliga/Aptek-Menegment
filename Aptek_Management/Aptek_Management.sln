@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aptek_Management", "Aptek_Management\Aptek_Management.csproj", "{68102094-7C6F-434C-B790-B1F4D42FF9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68102094-7C6F-434C-B790-B1F4D42FF9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68102094-7C6F-434C-B790-B1F4D42FF9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68102094-7C6F-434C-B790-B1F4D42FF9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68102094-7C6F-434C-B790-B1F4D42FF9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4AF689E-933E-4D8B-8366-2C05343ED887}
+	EndGlobalSection
+EndGlobal
